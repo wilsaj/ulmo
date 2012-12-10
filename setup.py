@@ -39,6 +39,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
     tests_require=[
+        'geopy>=0.93',
         'pytest>=2.3.2',
         'mock>=1.0.0',
     ],
