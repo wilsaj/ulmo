@@ -20,4 +20,4 @@ install:
   - "pip install html5lib"
 
 # command to run tests
-script: "py.test"
+script: "py.test test/usgs_nwis_hdf5_test.py"
